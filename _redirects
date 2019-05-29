@@ -1,0 +1,4 @@
+https://tennis.pollux.nagoya/ * https://pollux.nagoya/:splat 301!
+http://tennis.pollux.nagoya/ * https://pollux.nagoya/:splat 301!
+https://pollux.netlify.com/* https://pollux.nagoya/:splat 301!
+http://pollux.netlify.com/* https://pollux.nagoya/:splat 301!
